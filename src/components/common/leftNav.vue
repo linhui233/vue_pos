@@ -48,6 +48,6 @@
     list-style: none;
     text-align: center;
     border-bottom: 1px solid #20a0ff;
-    margin: 10px 0px 10px 0;
+    padding: 15px 0px 15px 0;
   }
 </style>

@@ -1,0 +1,34 @@
+[{
+goodsId: 1,
+goodsImg: "http://7xjyw1.com1.z0.glb.clouddn.com/pos001.jpg",
+goodsName: "香辣鸡腿堡",
+price: 18
+}, {
+goodsId:2,
+goodsImg:"http://7xjyw1.com1.z0.glb.clouddn.com/pos002.jpg",
+goodsName:'田园鸡腿堡',
+price:15
+}, {
+goodsId:3,
+goodsImg:"http://7xjyw1.com1.z0.glb.clouddn.com/pos004.jpg",
+goodsName:'和风汉堡',
+price:15
+}]
+
+tableData: [{
+                    goodsName: "可口可乐",
+                    price: 3,
+                    count: 1
+                },{
+                    goodsName: "香辣鸡腿堡",
+                    price: 16,
+                    count: 1
+                },{
+                    goodsName: "薯条",
+                    price: 8,
+                    count: 1
+                },{
+                    goodsName: "甜筒",
+                    price: 4,
+                    count: 1
+                }]
