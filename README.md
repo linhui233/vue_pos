@@ -22,3 +22,5 @@ The page at 'https://linhui233.github.io/vue_pos/index.html#/' was loaded over H
 但是后台数据不支持http访问，故使用了https://bird.ioliu.cn/ 
 
 通过在http请求前加入了https://bird.ioliu.cn/v1?url= 将http转为https
+
+解决~
