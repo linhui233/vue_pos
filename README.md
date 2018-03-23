@@ -8,7 +8,7 @@
    通过axios获得数据
 ```
    #npm使用：
-   npm install
-   本地编译 npm run dev
-   打包 npm run build
+   npm install ..
+   npm run dev 本地编译
+   npm run build 打包
    
