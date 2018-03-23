@@ -12,3 +12,5 @@
    npm run dev 本地编译
    npm run build 打包
    
+```
+预览请看gh-pages分支介绍
