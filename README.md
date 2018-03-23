@@ -1,6 +1,6 @@
-# awesomepos
+# pos
 
-> 一个 Vue.js 项目
+> 一个 Vue.js 项目,使用了Element组件
 
 ## 项目介绍
 通过vue-cli构建
