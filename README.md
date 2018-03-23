@@ -1,21 +1,14 @@
 # awesomepos
 
-> A Vue.js project
+> 一个 Vue.js 项目
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+## 项目介绍
+通过vue-cli构建
+   使用了vue-router
+   通过axios获得数据
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+   #npm使用：
+   npm install
+   本地编译 npm run dev
+   打包 npm run build
+   
